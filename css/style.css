@@ -1,20 +1,19 @@
-        body {
+    body {
 		background: #050007/*#000005*/ /*#0059DE*/;
 	}  
  
-        .img {
-	        position:absolute;
+    .img {
+	    position:absolute;
 		bottom:2.14em;
 		right:15%;
 		height:75%;
-		
 		border-radius:30px;
 		transition:0.5s;
 		-webkit-transition:0.5s;
 	}
 	
 	.img:hover {
-	        position:absolute;
+	    position:absolute;
 		transition:0.5s;
 		-webkit-transition:0.5s;
 		border-radius:0px;
@@ -22,7 +21,7 @@
 	
 	h2 {
 		position:relative;
-	        font-size:140%;
+	    font-size:140%;
 		margin-left:3%;
 		font-family: Trebuchet MS, sans-serif/*Arial Black, "Helvetica Neue", Helvetica, sans-serif*/;
 		font-weight:900;
@@ -136,24 +135,24 @@
 		top:140%;
 		left:7.5%;
 		width:85%;
-		height:20%;
+		height:30%;
 		background:#07070F;
 		color:white;
 	}
 	
 	.racunarske{
 		position:absolute;
-		top:160%;
+		top:170%;
 		left:7.5%;
 		width:85%;
-		height:20%;
+		height:35%;
 		background:#080911;
 		color:white;
 	}
 	
 	.ostale {
 		position:absolute;
-		top:179.9%;
+		top:204.9%;
 		left:7.5%;
 		width:85%;
 		height:20%;
@@ -267,10 +266,148 @@
 	
 	.iskustvo>p:nth-child(13) {
 		position:absolute;
-		top:90%;
-		left:27%;
+		top:3%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(14) {
+		position:absolute;
+		top:10%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(15) {
+		position:absolute;
+		top:18%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(16) {
+		position:absolute;
+		top:26%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(17) {
+		position:absolute;
+		top:34%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(18) {
+		position:absolute;
+		top:42%;
+		left:45%;
 	}
 	
+	.iskustvo>p:nth-child(19) {
+		position:absolute;
+		top:50%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(20) {
+		position:absolute;
+		top:58%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(21) {
+		position:absolute;
+		top:66%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(22) {
+		position:absolute;
+		top:74%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(23) {
+		position:absolute;
+		top:80%;
+		left:45%;
+	}
+
+	.iskustvo>p:nth-child(24) {
+		position:absolute;
+		top:3%;
+		left:65%;
+	}
+
+	.iskustvo>p:nth-child(25) {
+		position:absolute;
+		top:10%;
+		left:65%;
+	}
+
+	.iskustvo>p:nth-child(26) {
+		position:absolute;
+		top:18%;
+		left:65%;
+	}
+
+	.iskustvo>p:nth-child(27) {
+		position:absolute;
+		top:26%;
+		left:65%;
+	}
+
+	.iskustvo>p:nth-child(28) {
+		position:absolute;
+		top:34%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(29) {
+		position:absolute;
+		top:42%;
+		left:57%;
+	}
+	
+	.iskustvo>p:nth-child(30) {
+		position:absolute;
+		top:50%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(31) {
+		position:absolute;
+		top:58%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(32) {
+		position:absolute;
+		top:66%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(33) {
+		position:absolute;
+		top:74%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(34) {
+		position:absolute;
+		top:80%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(35) {
+		position:absolute;
+		top:88%;
+		left:57%;
+	}
+
+	.iskustvo>p:nth-child(36) {
+		position:absolute;
+		top:96%;
+		left:57%;
+	}
+
 	.obrazovanje>p:nth-child(2) {
 		position:absolute;
 		top:5%;
@@ -285,8 +422,8 @@
 	
 	.obrazovanje>p:nth-child(4) {
 		position:absolute;
-		top:5%;
-		left:94%;
+		top:55%;
+		left:27%;
 	}
 	
 	.obrazovanje>p:nth-child(5) {
@@ -316,38 +453,104 @@
 	
 	.kursevi>p:nth-child(2) {
 		position:absolute;
-		top:5%;
+		top:4%;
 		left:27%;
 	}
 	
 	.kursevi>p:nth-child(3) {
 		position:absolute;
-		top:30%;
+		top:20%;
 		left:27%;
 	}
 	
 	.kursevi>p:nth-child(4) {
 		position:absolute;
-		top:55%;
+		top:36%;
+		left:27%;
+	}
+
+	.kursevi>p:nth-child(5) {
+		position:absolute;
+		top:52%;
 		left:27%;
 	}
 	
 	.racunarske>p:nth-child(2) {
 		position:absolute;
-		top:5%;
+		top:4%;
 		left:27%;
 	}
 	
 	.racunarske>p:nth-child(3) {
 		position:absolute;
-		top:30%;
+		top:16%;
 		left:27%;
 	}
 	
 	.racunarske>p:nth-child(4) {
 		position:absolute;
-		top:55%;
+		top:28%;
 		left:27%;
+	}
+
+	.racunarske>p:nth-child(5) {
+		position:absolute;
+		top:40%;
+		left:27%;
+	}
+	
+	.racunarske>p:nth-child(6) {
+		position:absolute;
+		top:52%;
+		left:27%;
+	}
+	
+	.racunarske>p:nth-child(7) {
+		position:absolute;
+		top:64%;
+		left:27%;
+	}
+
+	.racunarske>p:nth-child(8) {
+		position:absolute;
+		top:76%;
+		left:27%;
+	}
+	
+	.racunarske>p:nth-child(9) {
+		position:absolute;
+		top:4%;
+		left:57%;
+	}
+	
+	.racunarske>p:nth-child(10) {
+		position:absolute;
+		top:16%;
+		left:57%;
+	}
+
+	.racunarske>p:nth-child(11) {
+		position:absolute;
+		top:28%;
+		left:57%;
+	}
+
+	.racunarske>p:nth-child(12) {
+		position:absolute;
+		top:40%;
+		left:57%;
+	}
+	
+	.racunarske>p:nth-child(13) {
+		position:absolute;
+		top:52%;
+		left:57%;
+	}
+	
+	.racunarske>p:nth-child(14) {
+		position:absolute;
+		top:64%;
+		left:57%;
 	}
 	
 	.ostale>p:nth-child(2) {
